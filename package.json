@@ -1,0 +1,8 @@
+{
+  "name": "jsonpage",
+  "version": "1.0.0",
+  "main": "JsonPage.js",
+  "repository": "https://github.com/jhonathan-jsa/JsonPage.git",
+  "author": "Jhonathan S Azevedo <Jhonathan.jsa@gmail.com>",
+  "license": "MIT"
+}
